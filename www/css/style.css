@@ -3,6 +3,31 @@ body {
     background-color: #454545;
     color: white;
 }
-a {
-    color: #1ad1ff;
+#startbutton {
+    color: #1affff;
+    text-decoration: none;
+    text-align: center;
+ 
 } 
+#startbutton p{
+    text-decoration: none;
+    font-size: 20%
+}
+h1 {
+    text-align: center; 
+    font-size: 60px;
+}
+p {
+    text-align: center;
+    font-size: 25px;
+}
+img {
+    display: block;
+    margin: auto;
+    width: 70%;
+    height: 50%;
+}
+.text {
+    font-size: 10px;
+    margin-bottom: 100px;
+}

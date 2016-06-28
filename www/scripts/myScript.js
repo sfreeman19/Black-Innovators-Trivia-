@@ -35,7 +35,7 @@ function Incorrect3(){
      ScoreDown();
 }
 function Correct(){
-    var correctAnswer = document.getElementById("correct")
+    var correctAnswer = document.getElementById("correct");
     correctAnswer.style.color = "green";
     ScoreUp();
     Navigate("ques2.html"); 
