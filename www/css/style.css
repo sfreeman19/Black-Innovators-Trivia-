@@ -1,5 +1,8 @@
 /**/
 body {
-    background-color: #4545454;
-  
+    background-color: #454545;
+    color: white;
 }
+a {
+    color: #1ad1ff;
+} 
