@@ -5,7 +5,7 @@ function ScoreUp(){
     current = 15; 
     points = points + current;
     document.getElementById("scoreCard").innerHTML = "Score: " + points + " Points";
-    
+ 
 }
 function ScoreDown(){
     current = 15;
